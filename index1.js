@@ -1,0 +1,1 @@
+const o1 ="second index.js file created"

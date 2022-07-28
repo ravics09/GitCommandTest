@@ -3,4 +3,3 @@ const h2 = "second commit"
 const h3 = "third commit";
 const d1 = "first commit on development branch"
 const d3 = "Added from local"
-const d2 = "Added from remote"
